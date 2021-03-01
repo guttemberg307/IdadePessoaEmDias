@@ -1,0 +1,7 @@
+C:\Users\Gutemberg Silva\source\repos\IdadePessoa\bin\Debug\IdadePessoa.exe.config
+C:\Users\Gutemberg Silva\source\repos\IdadePessoa\bin\Debug\IdadePessoa.exe
+C:\Users\Gutemberg Silva\source\repos\IdadePessoa\bin\Debug\IdadePessoa.pdb
+C:\Users\Gutemberg Silva\source\repos\IdadePessoa\obj\Debug\IdadePessoa.csprojAssemblyReference.cache
+C:\Users\Gutemberg Silva\source\repos\IdadePessoa\obj\Debug\IdadePessoa.csproj.CoreCompileInputs.cache
+C:\Users\Gutemberg Silva\source\repos\IdadePessoa\obj\Debug\IdadePessoa.exe
+C:\Users\Gutemberg Silva\source\repos\IdadePessoa\obj\Debug\IdadePessoa.pdb
